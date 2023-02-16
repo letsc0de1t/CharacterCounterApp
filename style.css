@@ -1,0 +1,31 @@
+body{
+    background-color: #222;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#container{
+    background-color: antiquewhite;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+#head{
+    font-size:x-large;
+    margin-bottom: 10px;
+}
+
+#inputText{
+    font-size: x-large;
+    padding: 10px;
+}
+
+#countText{
+    display: flex;
+    gap: 5px;
+    margin-top: 10px;
+    font-size: larger;
+}
+
